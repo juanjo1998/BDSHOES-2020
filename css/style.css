@@ -234,6 +234,20 @@ header {
 
 /*mobile images slider-home*/
 
+@media(max-width:500px){
+  .slider-item-mobile-1{
+    background-image: url(../img/slider-mobile/mountain.jpg) !important;
+  }
+
+  .slider-item-mobile-2{
+    background-image: url(../img/slider-mobile/mountain.jpg) !important;
+  }
+
+  .slider-item-mobile-3{
+    background-image: url(../img/slider-mobile/mountain.jpg) !important;
+  }
+}
+
 .pl-lg-5{
   padding-left: 0!important;
 }
@@ -950,4 +964,3 @@ header {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
-
