@@ -231,6 +231,9 @@ header {
 /*mobile images slider-home*/
 
 @media(max-width:350px){
+   .slider-item{
+    background-image: none !important;
+  }
   .slider-item-mobile-1{
     background-image: url(/img/slider-mobile/slider-mobile-1.jpg)!important;
   }
