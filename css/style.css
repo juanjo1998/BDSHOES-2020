@@ -180,9 +180,10 @@ header {
 .logo img{
   width: 70px;
   height: 70px;
-  margin: 0;
+  position: relative;
+  float: right;
+  left: 519px;
   padding: 0;
-  margin-left: 220px;
 }
 
 .form-inline-normal{
@@ -229,25 +230,6 @@ header {
 }
 
 /*mobile images slider-home*/
-
-@media(max-width:500px){
-   .slider-item{
-    background-image: none !important;
-  }
-}
-
-@media(max-width:300px){
-   .slider-item{
-    background-image: none !important;
-  }
-}
-
-@media(max-width:400px){
-   .slider-item{
-    background-image: none !important;
-  }
-}
-
 
 .pl-lg-5{
   padding-left: 0!important;
