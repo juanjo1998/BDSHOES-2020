@@ -180,10 +180,9 @@ header {
 .logo img{
   width: 70px;
   height: 70px;
-  position: relative;
-  float: right;
-  left: 519px;
+  margin: 0;
   padding: 0;
+  margin-left: 220px;
 }
 
 .form-inline-normal{
@@ -230,6 +229,26 @@ header {
 }
 
 /*mobile images slider-home*/
+
+@media(max-width:500px){
+
+  .slider-item{
+    background-image: none !important;
+  }
+  .slider-item-mobile-1{
+    background-image: url(/img/slider-mobile/slider-mobile-1.jpg)!important;
+  }
+  
+  .slider-item-mobile-2{
+    background-image: url(/img/slider-mobile/slider-mobile-2.jpg)!important;
+  }
+
+  .slider-item-mobile-3{
+    background-image: url(/img/slider-mobile/slider-mobile-3.jpg)!important;
+  }
+
+}
+
 
 .pl-lg-5{
   padding-left: 0!important;
