@@ -230,7 +230,7 @@ header {
 
 /*mobile images slider-home*/
 
-@media(max-width:400px){
+@media(max-width:300px){
   .slider-item-mobile-1{
     background-image: url(/img/slider-mobile/slider-mobile-1.jpg)!important;
   }
