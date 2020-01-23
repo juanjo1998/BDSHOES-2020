@@ -180,7 +180,6 @@ header {
 .logo{
   position: relative;
   left: 519px;
-  background: red;
 }
 .logo img{
   width: 70px;
@@ -283,7 +282,6 @@ header {
 
 @media(max-width:1000px){
   .logo{
-    background: blue;
     left: 425px;
   }
 }
@@ -952,3 +950,4 @@ header {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
+
