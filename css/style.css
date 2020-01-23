@@ -236,6 +236,18 @@ header {
   }
 }
 
+@media(max-width:300px){
+   .slider-item{
+    background-image: none !important;
+  }
+}
+
+@media(max-width:400px){
+   .slider-item{
+    background-image: none !important;
+  }
+}
+
 
 .pl-lg-5{
   padding-left: 0!important;
