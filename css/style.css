@@ -236,15 +236,15 @@ header {
 
 @media(max-width:500px){
   .slider-item-mobile-1{
-    background-image: url(../img/slider-mobile/shoe.jpg) !important;
+    background-image: url(../img/slider-mobile/mountain.jpg) !important;
   }
 
   .slider-item-mobile-2{
-    background-image: url(../img/slider-mobile/shoe.jpg) !important;
+    background-image: url(../img/slider-mobile/mountain.jpg) !important;
   }
 
   .slider-item-mobile-3{
-    background-image: url(../img/slider-mobile/shoe.jpg) !important;
+    background-image: url(../img/slider-mobile/mountain.jpg) !important;
   }
 }
 
