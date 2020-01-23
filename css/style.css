@@ -294,9 +294,9 @@ header {
 
 /*ipad responsive*/
 
-@media(max-width:1000px){
+@media(max-width:1024px){
   .logo{
-    left: 425px;
+    left: 460px;
   }
 }
 
